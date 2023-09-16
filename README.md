@@ -8,9 +8,9 @@
 ### Application Engineer
 I am an Application engineering student. Passionate about building innovative and user-friendly web applications. Skilled in HTML, CSS, React Next.js, Supabase, Firebase, MongoDB, and Arduino C++.
 
-![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   **+27 72 146 9441**
+![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) maganokeo@gmail.com
 
-![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [maganokeo@gmail.com]
+![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   **+27 72 146 9441**
 
 ![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [www.example.com](http://www.example.com)
 
