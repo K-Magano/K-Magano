@@ -2,7 +2,7 @@
 <tr>
 <td>
 
-![Profile Photo](https://blueprintway.com/wp-content/uploads/2020/09/Vanetta-Morrison-Profile-square-image.jpeg)
+![My image](https://github.com/K-Magano/Keorapetse_Magano/raw/main/keomagano_mid.jpg)
 
 </td>
 <td>
@@ -13,7 +13,7 @@ I am an Application engineer student. Passionate about building innovative and u
 
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   **+27 72 146 9441**
 
-![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [maganokeoe@gmail.com]
+![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [maganokeo@gmail.com]
 
 ![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [www.example.com](http://www.example.com)
 
@@ -21,7 +21,7 @@ I am an Application engineer student. Passionate about building innovative and u
 </tr>
 </table>
 
-## 👾 Technologies
+## 💻 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
