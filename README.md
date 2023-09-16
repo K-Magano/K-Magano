@@ -1,13 +1,10 @@
 <table>
 <tr>
+
+
+![My image](https://github.com/K-Magano/K-Magano/raw/main/header.png)
 <td>
 
-![My image](https://github.com/K-Magano/Keorapetse_Magano/raw/main/keomagano_mid.jpg)
-
-</td>
-<td>
-
-# Keorapeste Magano
 ### Application Engineer
 I am an Application engineer student. Passionate about building innovative and user-friendly web applications. Skilled in HTML, CSS, React Next.js, Supabase, Firebase, MongoDB, and Arduino C++.
 
@@ -35,6 +32,37 @@ I am an Application engineer student. Passionate about building innovative and u
 
 
 
+# Education
+
+### CodeSpace Academy 
+*Software Development*, 
+*JavaScript Engineering*
+
+### University Of Free State
+*BA (Communication Science) with specialization in Media Studies and Journalism.* 
+
+*Graduated: September 2014*  
+
+<td>
+<h4> Connect with me🤝: <h4>
+  </hr>
+  <a href="https://www.linkedin.com/in/keorapetse-magano-320ab538//">
+   <img align="left" alt=" Name Surname  | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:maganokeo@gmail.com">
+    <img align="left" alt="Name Surname  | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://twitter.com/VillagePrincezz">
+    <img align="left" alt="Name Surname | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>
+
+</td>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=K-Magano)](https://github.com/K-Magano/github-profile-trophy)
+   <a href="https://github.com/K-Magano">
+    <img align="left" alt= "Name Surname | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  
 # Work Experience 
 ## 2014-2019
 ### Content producer and Radio Broadcaster. 
@@ -81,33 +109,6 @@ I am an Application engineer student. Passionate about building innovative and u
 - Supervised and trained staff.
  
 
-# Education
-
-### CodeSpace Academy 
-*Software Development*, 
-*JavaScript Engineering*
-
-### University Of Free State
-*BA (Communication Science) with specialization in Media Studies and Journalism.* 
-
-*Graduated: September 2014*  
-
-<h4> Connect with me🤝: <h4>
-  </hr>
-  <a href="https://www.linkedin.com/in/keorapetse-magano-320ab538//">
-   <img align="left" alt=" Name Surname  | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:maganokeo@gmail.com">
-    <img align="left" alt="Name Surname  | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://twitter.com/VillagePrincezz">
-    <img align="left" alt="Name Surname | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=K-Magano)](https://github.com/K-Magano/github-profile-trophy)
-   <a href="https://github.com/K-Magano">
-    <img align="left" alt= "Name Surname | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
   <br>
   
 
