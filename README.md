@@ -29,7 +29,7 @@ I am an Application engineering student. Passionate about building innovative an
 ![Mongodb](https://img.shields.io/badge/-Mognodb-black?style=flat-circle&logo=mongodb)
 ![SupaBase](https://img.shields.io/badge/-SupaBase-black?style=flat-circle&logo=Supabase)
 ![FireBase](https://img.shields.io/badge/-FireBase-black?style=flat-circle&logo=FireBase)
-![Ardunio](https://img.shields.io/badge/-Ardunio-black?style=flat-circle&logo=Ardunio)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-circle&logo=Arduino)
 
 
 
