@@ -60,12 +60,22 @@ I am an Application engineering student. Passionate about building innovative an
 
 </td>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=K-Magano)](https://github.com/K-Magano/github-profile-trophy)
-   <a href="https://github.com/K-Magano">
-    <img align="left" alt= "Name Surname | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
+
   
 # Work Experience 
+
+## 2019-2022 
+### Business manager (Family Business)
+
+- Managed all financial aspects of the business, including budgeting, forecasting, and reporting.
+ 
+-  Oversaw all operations of the pub and grill, including food preparation, service, and cleaning.
+ 
+- Procured and managed inventory for the pub and grill, as well as the car wash.
+ 
+- Supervised and trained staff.
+
+
 ## 2014-2019
 ### Content producer and Radio Broadcaster. 
 
@@ -99,17 +109,7 @@ I am an Application engineering student. Passionate about building innovative an
 
 - Ability to work under pressure and think quickly on their feet
 
-## 2019-2022 
-### Business manager (Family Business)
 
-- Managed all financial aspects of the business, including budgeting, forecasting, and reporting.
- 
--  Oversaw all operations of the pub and grill, including food preparation, service, and cleaning.
- 
-- Procured and managed inventory for the pub and grill, as well as the car wash.
- 
-- Supervised and trained staff.
- 
 
   <br>
   
