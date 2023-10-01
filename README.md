@@ -1,40 +1,41 @@
-<table>
-<tr>
+
 
 
 ![My image](https://github.com/K-Magano/K-Magano/raw/main/header.png)
-<td>
+
+---
 
 ### Application Engineer
-I am an Application engineering student. Passionate about building innovative and user-friendly web applications. Skilled in HTML, CSS, React Next.js, Supabase, Firebase, MongoDB, and Arduino C++.
+I am an Application engineering student. Intrested in building innovative and user-friendly web applications.
 
-![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) maganokeo@gmail.com
-
-![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   **+27 72 146 9441**
-
-![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [www.example.com](http://www.example.com)
-
-</td>
-</tr>
-</table>
-
-## 💻 Technologies
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-181717?style=flat-circle&logo=Figma)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
-![Mongodb](https://img.shields.io/badge/-Mognodb-black?style=flat-circle&logo=mongodb)
-![SupaBase](https://img.shields.io/badge/-SupaBase-black?style=flat-circle&logo=Supabase)
-![FireBase](https://img.shields.io/badge/-FireBase-black?style=flat-circle&logo=FireBase)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-circle&logo=Arduino)
+📧 **maganokeo@gmail.com** 📞 **+27 72 146 9441**  📍**Rustenburg**
 
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src ="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="npm" width="40" height="40"/>&nbsp;
+
+  
+  ![SupaBase](https://img.shields.io/badge/-SupaBase-black?style=flat-circle&logo=Supabase)
+  ![Figma](https://img.shields.io/badge/-Figma-181717?style=flat-circle&logo=Figma)
 
 
-# Education
+----------
+
+# 🎓 Education
 
 ### CodeSpace Academy 
 *Software Development*, 
@@ -61,55 +62,17 @@ I am an Application engineering student. Passionate about building innovative an
 </td>
 
 
-  
-# Work Experience 
-
-## 2019-2022 
-### Business manager (Family Business)
-
-- Managed all financial aspects of the business, including budgeting, forecasting, and reporting.
- 
--  Oversaw all operations of the pub and grill, including food preparation, service, and cleaning.
- 
-- Procured and managed inventory for the pub and grill, as well as the car wash.
- 
-- Supervised and trained staff.
-
-
-## 2014-2019
-### Content producer and Radio Broadcaster. 
-
-## Duties:
-
-- Develop and produce radio programs, including both live and pre-recorded content
-
-- Research and write scripts for programs
-
-- Source and interview guests
-
-- Select music and other audio clips for programs
-
-- Operate audio equipment and software
-
-- Present programs on-air
-
-## Skills:
-
--  Excellent communication and presentation skills
-
-- Ability to generate original ideas and create engaging content
- 
--  Strong research and writing skills
-
+## ✒️ Skills:
+- Web Design 
+- Design Thinking
+- Front End Coding
+- Wireframe Creation
+- Problem-Solving 
+- Communication and presentation skills
+- Research and writing skills
 - Ability to work independently and as part of a team
- 
-- Technical skills in audio production and editing
-
--  Ability to manage time and meet deadlines effectively
-
-- Ability to work under pressure and think quickly on their feet
-
-
+- Ability to manage time and meet deadlines effectively
+- Prompt Engineering /LLM Prompting
 
   <br>
   
