@@ -6,7 +6,7 @@
 ---
 
 ### Application Engineer
-I am an Application engineering student. Intrested in building innovative and user-friendly web applications.
+I am an Application engineering student. Interested in building innovative and user-friendly web applications.
 
 📧 **maganokeo@gmail.com** 📞 **+27 72 146 9441**  📍**Rustenburg**
 
