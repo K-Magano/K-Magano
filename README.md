@@ -6,7 +6,8 @@
 ---
 
 ### Application Engineer
-I am an Application engineering student. Interested in building innovative and user-friendly web applications.
+
+I'm excited to transition from radio broadcasting to software development. I'm a tech student who loves to learn and build, and I've made a lot of progress in the past year. I've learned programming languages and database technologies, and I'm passionate about building innovative and user-friendly web applications..
 
 📧 **maganokeo@gmail.com** 📞 **+27 72 146 9441**  📍**Rustenburg**
 
@@ -27,9 +28,11 @@ I am an Application engineering student. Interested in building innovative and u
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="npm" width="40" height="40"/>&nbsp;
-
+  
+&nbsp;
   
   ![SupaBase](https://img.shields.io/badge/-SupaBase-black?style=flat-circle&logo=Supabase)
+  
   ![Figma](https://img.shields.io/badge/-Figma-181717?style=flat-circle&logo=Figma)
 
 
