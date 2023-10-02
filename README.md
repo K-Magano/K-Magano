@@ -61,7 +61,6 @@ I am an Application engineering student. Intrested in building innovative and us
 
 </td>
 
-
 ## ✒️ Skills:
 - Web Design 
 - Design Thinking
@@ -73,6 +72,58 @@ I am an Application engineering student. Intrested in building innovative and us
 - Ability to work independently and as part of a team
 - Ability to manage time and meet deadlines effectively
 - Prompt Engineering /LLM Prompting
+
+  
+## :octocat: Git Skills
+
+#### Introduction-to-GitHub 
+   * Learned about GitHub, repositories, branches, commits, and pull requests.
+   * created a branch, a commit, and a pull request.
+   * merged a pull request.
+   * contribution! 
+ 
+ #### Communicate-using-markdown
+
+*Organize ideas and collaborate using Markdown, a lightweight language for text formatting.*
+
+    * Learned about Markdown, headings, images, code examples, and task lists.
+    * created and merged a Markdown file.
+
+#### Creating a site or blog from GitHub repositories with GitHub Pages.
+
+*  Enabled GitHub Pages.
+* Selected a theme using the config file.
+* Learned about proper directory format and file naming conventions in Jekyll.
+* Created your first blog post with Jekyll!
+
+  *My blog is now live and has been deployed!* 
+     Read it here  ➡️ ![Github Pages](https://img.shields.io/badge/-Github-black?style=flat-circle&logo=Github)   <a href="https://k-magano.github.io/skills-github-pages/2023/09/08/As-The-Empire-grows.html">
+
+#### Resolve merge conflicts
+  *Learn why conflicts happen and how to resolve them.*
+
+* Learned why merge conflicts happen.
+* Resolved a simple merge conflict.
+* Created a merge conflict, and resolved it!
+
+
+#### Connect the dots in a GitHub repository
+*Useful tips when navigating through a repository.*
+
+ - Learned a lot about finding and sharing information. Within a GitHub repository, you can find history about what changes were made, and more importantly, why changes were made.
+
+#### Release-based-workflow
+
+* Create a beta release.
+* Add a new feature to the release branch.
+* Open a release pull request
+* Automate release notes.
+* Merge and finalize the release branch.
+* Commit a hotfix to the release.
+* Create release v1.0.1.
+  
+
+
 
   <br>
   
