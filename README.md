@@ -15,19 +15,20 @@ I'm excited to transition from radio broadcasting to software development. I'm a
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Material UI](https://img.shields.io/badge/-material-black?style=flat-square&logo=mui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-circle&logo=typescript)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-circle&logo=arduino)
+![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-circle&logo=next.js&logoColor=white)
+![Material UI](https://img.shields.io/badge/-material-black?style=flat-circle&logo=mui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-circle&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-circle&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-circle&logo=firebase)
 ![SupaBase](https://img.shields.io/badge/-SupaBase-black?style=flat-circle&logo=Supabase)
 ![Figma](https://img.shields.io/badge/-Figma-181717?style=flat-circle&logo=Figma)
+![NPM](https://img.shields.io/badge/-NPM-181717?style=flat-circle&logo=NPM)
 
 
 ----------
