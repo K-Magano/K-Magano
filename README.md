@@ -5,10 +5,10 @@
 
 ---
 
-### Application Engineer
+### Front-End developer
 
 I'm a tech student who loves to learn and build, and I've made a lot of progress in the past year. 
-I've learned programming languages and database technologies, and I'm passionate about building innovative and user-friendly web applications..
+I've learned programming languages and database technologies, and I'm passionate about building innovative and user-friendly web applications.
 
 📧 **maganokeo@gmail.com** 📞 **+27 72 146 9441**  📍**Rustenburg**
 
