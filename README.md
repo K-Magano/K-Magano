@@ -3,19 +3,15 @@
 
 ![My image](https://github.com/K-Magano/K-Magano/raw/main/header.png)
 
----
 
-### Front-End developer
-
-I'm a tech student who loves to learn and build, and I've made a lot of progress in the past year. 
-I've learned programming languages and database technologies, and I'm passionate about building innovative and user-friendly web applications.
+I'm a Front-End developer who loves to learn and build and is passionate about building innovative and user-friendly web applications.
 
 📧 **maganokeo@gmail.com** 📞 **+27 72 146 9441**  📍**Rustenburg**
 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
@@ -23,6 +19,7 @@ I've learned programming languages and database technologies, and I'm passionate
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-circle&logo=arduino)
 ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-circle&logo=next.js&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-circle&logo=ESLint&logoColor=4b32c3)
 ![Material UI](https://img.shields.io/badge/-material-black?style=flat-circle&logo=mui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-circle&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-circle&logo=mongodb)
@@ -43,22 +40,19 @@ I've learned programming languages and database technologies, and I'm passionate
 ### University Of Free State
 *BA (Communication Science) with specialization in Media Studies and Journalism.* 
 
-*Graduated: September 2014*  
+*Graduated: September 2014* 
 
-<td>
-<h4> Connect with me🤝: <h4>
-  </hr>
+<h4>Connect with me🤝<h4>
   <a href="https://www.linkedin.com/in/keorapetse-magano-320ab538//">
-   <img align="left" alt=" Name Surname  | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+    <img align="left" alt=" Name Surname  | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
  
   <a href="https://twitter.com/VillagePrincezz">
     <img align="left" alt="Name Surname | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
 
-</td>
 
-## ✒️ Skills:
+### ✒️ Skills:
 - Web Design 
 - Design Thinking
 - Front End Coding
